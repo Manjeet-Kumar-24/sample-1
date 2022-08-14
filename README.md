@@ -24,7 +24,8 @@ Turtle is a Python library which used to create graphics, pictures, and games. I
 
 ### Introduction
 
-Turtle is a pre-installed library in Python that is similar to the virtual canvas that we can draw pictures and attractive shapes. It provides the onscreen pen that we can use for drawing.
+Turtle is a pre-installed library in Python that is similar to the virtual canvas that we can draw pictures and attractive shapes. 
+It provides the onscreen pen that we can use for drawing.
 
 ### Getting started with turtle
 

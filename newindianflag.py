@@ -16,6 +16,7 @@ def draw(x, y):
          flag.backward(80)
          flag.left(15)
      #flag.backward(80)
+
      #draw(0, -80)
      flag.goto(-100,20)
      flag.circle(80, 360)    
