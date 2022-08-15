@@ -11,15 +11,10 @@ def draw(x, y):
      flag.goto(x,y)
      flag.pendown()
 
-
-
-     
-
      for i in range(24):
          flag.forward(80)
          flag.backward(80)
          flag.left(15)
-     #flag.backward(80)
 
 
 
