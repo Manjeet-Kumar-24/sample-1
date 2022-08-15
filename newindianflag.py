@@ -49,10 +49,9 @@ def draw(x, y):
      flag.forward(160)
 
      flag.end_fill()
-
      turtle.done()
 
-
+#main method to draw the shape
 # def main():
 #     print("Hello World!")
 
